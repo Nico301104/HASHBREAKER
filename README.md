@@ -44,10 +44,14 @@ python main.py
 ## 📁 Project Structure
 HASHBREAKER/
 ├── constants.py
+
 ├── engine.py
+
 ├── gui.py
+
 ├── hash_utils.py
 ├── main.py
+
 ├── wordlist.txt
 └── README.md
 ## 📌 Example
