@@ -43,12 +43,13 @@ python main.py
 
 ## 📁 Project Structure
 HASHBREAKER/
-├── src/
-├── tests/
+├── constants.py
+├── engine.py
+├── gui.py
+├── hash_utils.py
 ├── main.py
-├── utils/
+├── wordlist.txt
 └── README.md
-
 ## 📌 Example
 Input: hello
 Output: SHA256 hash generated from input
