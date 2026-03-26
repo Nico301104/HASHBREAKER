@@ -50,9 +50,11 @@ HASHBREAKER/
 ├── gui.py
 
 ├── hash_utils.py
+
 ├── main.py
 
 ├── wordlist.txt
+
 └── README.md
 ## 📌 Example
 Input: hello
