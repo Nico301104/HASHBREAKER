@@ -43,6 +43,7 @@ python main.py
 
 ## 📁 Project Structure
 HASHBREAKER/
+
 ├── constants.py
 
 ├── engine.py
