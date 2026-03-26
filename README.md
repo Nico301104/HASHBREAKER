@@ -56,14 +56,5 @@ Output: SHA256 hash generated from input
 Small change:
 Input: hEllo
 Output: completely different hash result (avalanche effect)
-
-## ⚠️ Disclaimer
-This project is strictly for educational purposes only. It must not be used for illegal or malicious activities. The author is not responsible for any misuse.
-
 ## 👤 Author
 * Sandru Nicolae-Andrei
-- Add GUI interface
-- Support more hashing algorithms (MD5, SHA variants, BLAKE2)
-- Export results to file
-- Hash comparison tool
-- Performance optimizations
